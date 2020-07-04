@@ -14,7 +14,7 @@ const Header = () => {
       </li>
         <li className={styles.user__nick}>
           CB
-      </li>
+      </li> 
       </ul>
     </div>
   );
